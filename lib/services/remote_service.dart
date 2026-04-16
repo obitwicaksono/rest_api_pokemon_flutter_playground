@@ -15,5 +15,6 @@ class RemoteService {
           pokemonData.results; // arti kode ini apa ?
       return listHasil;
     }
+    return null;
   }
 }
